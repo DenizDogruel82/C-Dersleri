@@ -1,0 +1,7 @@
+C:\Users\deniz\Desktop\C-Dersleri-master\Değişkenler\bin\Debug\Değişkenler.exe.config
+C:\Users\deniz\Desktop\C-Dersleri-master\Değişkenler\bin\Debug\Değişkenler.exe
+C:\Users\deniz\Desktop\C-Dersleri-master\Değişkenler\bin\Debug\Değişkenler.pdb
+C:\Users\deniz\Desktop\C-Dersleri-master\Değişkenler\obj\Debug\Değişkenler.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\C-Dersleri-master\Değişkenler\obj\Debug\Değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\C-Dersleri-master\Değişkenler\obj\Debug\Değişkenler.exe
+C:\Users\deniz\Desktop\C-Dersleri-master\Değişkenler\obj\Debug\Değişkenler.pdb
