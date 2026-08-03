@@ -1,0 +1,7 @@
+C:\Users\deniz\Desktop\C-Dersleri-master\KlavyedenVerialmakomutlari\bin\Debug\KlavyedenVerialmakomutlari.exe.config
+C:\Users\deniz\Desktop\C-Dersleri-master\KlavyedenVerialmakomutlari\bin\Debug\KlavyedenVerialmakomutlari.exe
+C:\Users\deniz\Desktop\C-Dersleri-master\KlavyedenVerialmakomutlari\bin\Debug\KlavyedenVerialmakomutlari.pdb
+C:\Users\deniz\Desktop\C-Dersleri-master\KlavyedenVerialmakomutlari\obj\Debug\KlavyedenVerialmakomutlari.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\C-Dersleri-master\KlavyedenVerialmakomutlari\obj\Debug\KlavyedenVerialmakomutlari.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\C-Dersleri-master\KlavyedenVerialmakomutlari\obj\Debug\KlavyedenVerialmakomutlari.exe
+C:\Users\deniz\Desktop\C-Dersleri-master\KlavyedenVerialmakomutlari\obj\Debug\KlavyedenVerialmakomutlari.pdb
